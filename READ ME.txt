@@ -1,0 +1,27 @@
+============================= A.A.R CODE SUBMISSION ============================
+
+SUPERVISOR	: 	DR. ANU SAHNI 
+STUDENT NAME	:	STEPHEN LOWRY
+STUDENT NUMBER	:	x12356291
+EMAIL		:	x12356291.STUDENT.NCIRL.COM
+COARSE		:	BHS IN COMPUTING
+
+================================ FOLDER DETAILS ================================
+
+FOLDER A.A.R CODE & .EXE\A.A.R
+INCLUDES THE PROJECT & ITS CODE
+
+FOLDER A.A.R CODE & .EXE\EXE 
+INCLUDES THE GAMES ARENA ASSAULT RACING.EXE & THE FILES NEEDED TO RUN IT
+
+============================= GAMES CONTROL INPUTS =============================
+
+		PLAYER 1	PLAYER 2	
+ACCELERATE	W		8		
+REVERSE/BRAKE	S		5		
+STEER LEFT	A		4		
+STEER RIGHT	D		6		
+SHOOT 		Q		7		
+HANDBRAKE	E		9	
+	
+================================================================================
